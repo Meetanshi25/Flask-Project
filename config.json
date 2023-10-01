@@ -8,6 +8,10 @@
     "fb_uri": "https://facebook.com",
     "gh_uri": "https://github.com",
     "blog_name": "Coding Thunder",
-    "tag_line": "A Blogging Website"
+    "tag_line": "A Blogging Website",
+    "gmail-user": " ",
+    "gmail-password": " ",
+    "about_text": "Hi my name is Meetanshi and I create Java Applications"
+
   }
 }
